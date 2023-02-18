@@ -1,0 +1,1 @@
+# Flutter-Clean-Architecture-Auto-Genertaed-Script-
