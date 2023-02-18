@@ -1,4 +1,4 @@
-# Script for automatically generating clean architecture files and folders.
+# Script for automatically generating clean architecture files and folders for a given feature.
 
 This project utilizes Flutter's clean architecture with Cubit. However, creating every necessary folder and file for each new feature can be a tedious task. To simplify the development process, I have created a script file that automates the creation of the folder structure and necessary files for a new feature. This not only saves time, but also ensures consistency in the code structure. The script file also includes a basic code structure for each new feature.
 
